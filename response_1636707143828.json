@@ -1,0 +1,2466 @@
+[
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+    "sha": "30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-02-04T10:40:10Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-02-04T10:40:10Z"
+      },
+      "message": "Chapter modularized(done)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+        "sha": "30a2cb84393f8925d3cabe0ab259e77529dc0f9e",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+        "sha": "508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "Ian_MeasMatic/Pintester+Manual_Comment.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/MeasMatic.ico"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/MeasMaticSplashScreen.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/generalUI.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/install_IP.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/install_path.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/img/install_preference.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Ian_MeasMatic.log"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Ian_MeasMatic.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Ian_MeasMatic.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Installation.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Introduction.aux"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Introduction.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Introduction.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Introduction.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Introduction.toc"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Projects.aux"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Projects.log"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Projects.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Projects.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Projects.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_Test_Editor.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_User_Interface.aux"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_User_Interface.log"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_User_Interface.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_User_Interface.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/MeasMatic_User_Interface.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Pins.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/text/Tests.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/123generalUI.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.tex"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+    "sha": "508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-31T12:49:11Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-31T12:49:11Z"
+      },
+      "message": "Ch4(skipped)\nCh5(Until 5.3)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+        "sha": "508707d93cd39d9ddeed4a4173cbd5938382dd0a",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+        "sha": "ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.aux"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.log"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.toc"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+    "sha": "ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-31T08:14:01Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-31T08:14:01Z"
+      },
+      "message": "Add MeasMatic to Repo\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+        "sha": "ebe02d4f9f8aa2b56b91eafb7ee5de7a8890f9ec",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/daf856ddeed211e0b1b3f903d5f0548c551dec56",
+        "sha": "daf856ddeed211e0b1b3f903d5f0548c551dec56",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "Ian_MeasMatic/0000/MeasMatic.ico"
+      },
+      {
+        "filename": "Ian_MeasMatic/0000/MeasMaticSplashScreen.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/0000/generalUI.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/0000/install_IP.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/0000/install_path.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/0000/install_preference.PNG"
+      },
+      {
+        "filename": "Ian_MeasMatic/123generalUI.png"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.aux"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.lof"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.log"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.lot"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.out"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.pdf"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.synctex.gz"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.tex"
+      },
+      {
+        "filename": "Ian_MeasMatic/Ian_MeasMatic.toc"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/daf856ddeed211e0b1b3f903d5f0548c551dec56",
+    "sha": "daf856ddeed211e0b1b3f903d5f0548c551dec56",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/daf856ddeed211e0b1b3f903d5f0548c551dec56",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/daf856ddeed211e0b1b3f903d5f0548c551dec56",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-13T23:16:09Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-13T23:16:09Z"
+      },
+      "message": "Delete initial file, add port bindings (Need for all XAML instance)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/daf856ddeed211e0b1b3f903d5f0548c551dec56",
+        "sha": "daf856ddeed211e0b1b3f903d5f0548c551dec56",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+        "sha": "a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/IanTCPIP.csproj"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+    "sha": "a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-09T22:57:44Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-09T22:57:44Z"
+      },
+      "message": "Add \"ConnectCommand\" \"GetPortNumber\" \"TerminalPrint/Output\" Not working, cannot access XAML and certain functions\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+        "sha": "a6ea4f32b2cfbcd24418142d24243972548c1ed1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+        "sha": "b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+    "sha": "b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-07T11:00:42Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-07T11:00:42Z"
+      },
+      "message": "Add \"GetPortNumber\", need to reach XAML (probably need binding)\nAdd Initialize.cs (Code in WinForm, need adjustment)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+        "sha": "b280cf3f2b1d066cb64a82be1eeaa743de9058de",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+        "sha": "3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/IanTCPIP.csproj"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+    "sha": "3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-06T15:33:27Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2020-01-06T15:33:27Z"
+      },
+      "message": "Add more context menu:\nIssue1: Context menu \"Undo\" \"Delete\" from applicationcommand greyed out.\nIssue2: Need to add key up down left right.\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+        "sha": "3d9b9e8f728c8f0fcab80195dd06026eb1a4a3cc",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+        "sha": "ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.config"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/IanTCPIP.csproj"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Settings.Designer.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/packages.config"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+    "sha": "ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-20T12:32:22Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-20T12:32:22Z"
+      },
+      "message": "20191220 Last Commit\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+        "sha": "ac9f154eac29cb052dc08ef2afb4fb107d106daa",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/e4ec9119deaf99415ef4e4f97aa7350d65795209",
+        "sha": "e4ec9119deaf99415ef4e4f97aa7350d65795209",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/e4ec9119deaf99415ef4e4f97aa7350d65795209",
+    "sha": "e4ec9119deaf99415ef4e4f97aa7350d65795209",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/e4ec9119deaf99415ef4e4f97aa7350d65795209",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/e4ec9119deaf99415ef4e4f97aa7350d65795209",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-20T10:11:38Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-20T10:11:38Z"
+      },
+      "message": "Time Stamp Failed, others are working\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/e4ec9119deaf99415ef4e4f97aa7350d65795209",
+        "sha": "e4ec9119deaf99415ef4e4f97aa7350d65795209",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+        "sha": "53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+    "sha": "53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-17T09:10:20Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-17T09:10:20Z"
+      },
+      "message": "Correct Version of GameofLife\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+        "sha": "53f269d20db1e81dd939f707e2ce87f279c4cfdd",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+        "sha": "7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+    "sha": "7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-10T11:01:41Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-10T11:01:41Z"
+      },
+      "message": "Grid and UI update\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+        "sha": "7fdb0926d4ffe13c77278aea2b8098c4db251ebe",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+        "sha": "6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+    "sha": "6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T14:02:15Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T14:02:15Z"
+      },
+      "message": "Add connectserver code.\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+        "sha": "6861d6a39b9bf2c842fa9f2b3c1fa00caea1b928",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/91940bb83364e83fcc3e8574282ff30b1320aa78",
+        "sha": "91940bb83364e83fcc3e8574282ff30b1320aa78",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/91940bb83364e83fcc3e8574282ff30b1320aa78",
+    "sha": "91940bb83364e83fcc3e8574282ff30b1320aa78",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/91940bb83364e83fcc3e8574282ff30b1320aa78",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/91940bb83364e83fcc3e8574282ff30b1320aa78",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T08:10:06Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T08:10:06Z"
+      },
+      "message": "Unsure commit\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/91940bb83364e83fcc3e8574282ff30b1320aa78",
+        "sha": "91940bb83364e83fcc3e8574282ff30b1320aa78",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+        "sha": "107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "TcpIpTool/FormMain.Designer.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+    "sha": "107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T08:09:24Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-09T08:09:24Z"
+      },
+      "message": "Unsure commit\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+        "sha": "107d7fbb108a0e055e28b3f3195a3b63c2798c4e",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/9c65a31f007609e3370d10fda336832e39a59cd6",
+        "sha": "9c65a31f007609e3370d10fda336832e39a59cd6",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/9c65a31f007609e3370d10fda336832e39a59cd6",
+    "sha": "9c65a31f007609e3370d10fda336832e39a59cd6",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/9c65a31f007609e3370d10fda336832e39a59cd6",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/9c65a31f007609e3370d10fda336832e39a59cd6",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-06T11:02:32Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-06T11:02:32Z"
+      },
+      "message": "WeeklyConference1206\n\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/9c65a31f007609e3370d10fda336832e39a59cd6",
+        "sha": "9c65a31f007609e3370d10fda336832e39a59cd6",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+        "sha": "b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP.sln"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.xaml.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/IanTCPIP.csproj"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Resources.Designer.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Settings.Designer.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+    "sha": "b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-03T08:44:38Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-12-03T08:44:38Z"
+      },
+      "message": "UI Formatting Done\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+        "sha": "b0a587c063d6a7fb84a46ee7d5d6cf7905b09e27",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/c8ddfab4cd1e040243e3065e64c4910b548481f1",
+        "sha": "c8ddfab4cd1e040243e3065e64c4910b548481f1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/c8ddfab4cd1e040243e3065e64c4910b548481f1",
+    "sha": "c8ddfab4cd1e040243e3065e64c4910b548481f1",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/c8ddfab4cd1e040243e3065e64c4910b548481f1",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/c8ddfab4cd1e040243e3065e64c4910b548481f1",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T11:09:57Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T11:09:57Z"
+      },
+      "message": "\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/c8ddfab4cd1e040243e3065e64c4910b548481f1",
+        "sha": "c8ddfab4cd1e040243e3065e64c4910b548481f1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+        "sha": "dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/.suo"
+      },
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/Server/sqlite3/db.lock"
+      },
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/Server/sqlite3/storage.ide"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+    "sha": "dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T11:05:38Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T11:05:38Z"
+      },
+      "message": "Delete Unnecessary Commit files\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+        "sha": "dc2d1c68c7277f3cd854ed13602a4335a9d2dca6",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b543374a9c6e94c3a65e2160cac7452c136cba75",
+        "sha": "b543374a9c6e94c3a65e2160cac7452c136cba75",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.CodeAnalysisLog.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.config"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.lastcodeanalysissucceeded"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/System.Windows.Interactivity.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/App.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/App.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/DesignTimeResolveAssemblyReferences.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.Properties.Resources.resources"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.CopyComplete"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.FileListAbsolute.txt"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.GenerateResource.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csprojAssemblyReference.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.exe"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.g.resources"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.i.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.i.lref"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.lref"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GeneratedInternalTypeHelper.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GeneratedInternalTypeHelper.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/IanTCPIP.csprojAssemblyReference.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/MainWindow.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/MainWindow.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/UserControl1.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/.signature.p7s"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/MvvmLightLibsStd10.5.4.1.1.nupkg"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/System.Windows.Interactivity.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.pri"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/.suo"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b543374a9c6e94c3a65e2160cac7452c136cba75",
+    "sha": "b543374a9c6e94c3a65e2160cac7452c136cba75",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/b543374a9c6e94c3a65e2160cac7452c136cba75",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/b543374a9c6e94c3a65e2160cac7452c136cba75",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T10:52:04Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-29T10:52:04Z"
+      },
+      "message": "Added IanTCPIP\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/b543374a9c6e94c3a65e2160cac7452c136cba75",
+        "sha": "b543374a9c6e94c3a65e2160cac7452c136cba75",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+        "sha": "496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/.suo"
+      },
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/Server/sqlite3/db.lock"
+      },
+      {
+        "filename": "IanTCPIP/.vs/IanTCPIP/v16/Server/sqlite3/storage.ide"
+      },
+      {
+        "filename": "IanTCPIP/AtvFramework.sln.DotSettings"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP.sln"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/.vs/IanTCPIP/v16/.suo"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/.vs/VSWorkspaceState.json"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/.vs/slnx.sqlite"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.config"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/App.xaml.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/IanTCPIP.csproj"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/AssemblyInfo.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Resources.Designer.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Resources.resx"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Settings.Designer.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Properties/Settings.settings"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/Views/MainWindow.xaml.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.CodeAnalysisLog.xml"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.config"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.exe.lastcodeanalysissucceeded"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/GameOfLife.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/bin/Debug/System.Windows.Interactivity.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/App.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/App.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/DesignTimeResolveAssemblyReferences.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.Properties.Resources.resources"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.CopyComplete"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.FileListAbsolute.txt"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csproj.GenerateResource.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.csprojAssemblyReference.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.exe"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.g.resources"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife.pdb"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.i.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.i.lref"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GameOfLife_MarkupCompile.lref"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GeneratedInternalTypeHelper.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/GeneratedInternalTypeHelper.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/IanTCPIP.csprojAssemblyReference.cache"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/MainWindow.g.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/MainWindow.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/obj/Debug/Views/UserControl1.g.i.cs"
+      },
+      {
+        "filename": "IanTCPIP/IanTCPIP/packages.config"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/.signature.p7s"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/MvvmLightLibsStd10.5.4.1.1.nupkg"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/monoandroid1/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/net45/System.Windows.Interactivity.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/netstandard1.0/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.pri"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.Platform.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/uap10.0/GalaSoft.MvvmLight.xml"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.XML"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.dll"
+      },
+      {
+        "filename": "IanTCPIP/packages/MvvmLightLibsStd10.5.4.1.1/lib/xamarin.ios10/GalaSoft.MvvmLight.pdb"
+      },
+      {
+        "filename": "TcpIpTool/.vs/TcpipTool/v16/.suo"
+      },
+      {
+        "filename": "TcpIpTool/.vs/TcpipTool/v16/Server/sqlite3/db.lock"
+      },
+      {
+        "filename": "TcpIpTool/.vs/TcpipTool/v16/Server/sqlite3/storage.ide"
+      },
+      {
+        "filename": "TcpIpTool/obj/Debug/DesignTimeResolveAssemblyReferences.cache"
+      },
+      {
+        "filename": "TcpIpTool/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache"
+      },
+      {
+        "filename": "TcpIpTool/obj/Debug/TcpipTool.csprojAssemblyReference.cache"
+      },
+      {
+        "filename": "TcpIpTool/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+    "sha": "496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+      "author": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-29T09:03:58Z"
+      },
+      "committer": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-29T09:03:58Z"
+      },
+      "message": "Copied TCP/IP Tool to Training\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+        "sha": "496e81d9f0770bd15e8937a8e8413bc2376dfa50",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "committer": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+        "sha": "f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "TcpIpTool/App.config"
+      },
+      {
+        "filename": "TcpIpTool/FormMain.Designer.cs"
+      },
+      {
+        "filename": "TcpIpTool/FormMain.cs"
+      },
+      {
+        "filename": "TcpIpTool/FormMain.resx"
+      },
+      {
+        "filename": "TcpIpTool/Installer/ATV"
+      },
+      {
+        "filename": "TcpIpTool/Installer/installer.iss"
+      },
+      {
+        "filename": "TcpIpTool/Program.cs"
+      },
+      {
+        "filename": "TcpIpTool/Properties/AssemblyInfo.cs"
+      },
+      {
+        "filename": "TcpIpTool/Properties/Resources.Designer.cs"
+      },
+      {
+        "filename": "TcpIpTool/Properties/Resources.resx"
+      },
+      {
+        "filename": "TcpIpTool/Properties/Settings.Designer.cs"
+      },
+      {
+        "filename": "TcpIpTool/Properties/Settings.settings"
+      },
+      {
+        "filename": "TcpIpTool/TcpipTool.csproj"
+      },
+      {
+        "filename": "TcpIpTool/TcpipTool.sln"
+      },
+      {
+        "filename": "TcpIpTool/atv.ico"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+    "sha": "f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-26T10:39:31Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-26T10:39:31Z"
+      },
+      "message": "Compact \n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+        "sha": "f1cafc4825404f47dd650dd284397d3a47ccc0b0",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/fb05e03a8911721083786536cd7ab7233f790fa1",
+        "sha": "fb05e03a8911721083786536cd7ab7233f790fa1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/fb05e03a8911721083786536cd7ab7233f790fa1",
+    "sha": "fb05e03a8911721083786536cd7ab7233f790fa1",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/fb05e03a8911721083786536cd7ab7233f790fa1",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/fb05e03a8911721083786536cd7ab7233f790fa1",
+      "author": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-26T10:01:05Z"
+      },
+      "committer": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-26T10:01:05Z"
+      },
+      "message": "Added Resharper settings from ATV Framework\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/fb05e03a8911721083786536cd7ab7233f790fa1",
+        "sha": "fb05e03a8911721083786536cd7ab7233f790fa1",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "committer": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/64bd9064b393d615144bf16d0ca1096c6c425ad8",
+        "sha": "64bd9064b393d615144bf16d0ca1096c6c425ad8",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/AtvFramework.sln.DotSettings"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/64bd9064b393d615144bf16d0ca1096c6c425ad8",
+    "sha": "64bd9064b393d615144bf16d0ca1096c6c425ad8",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/64bd9064b393d615144bf16d0ca1096c6c425ad8",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/64bd9064b393d615144bf16d0ca1096c6c425ad8",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-25T17:07:44Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-25T17:07:44Z"
+      },
+      "message": "New Timer Update(Didn't check coding format)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/64bd9064b393d615144bf16d0ca1096c6c425ad8",
+        "sha": "64bd9064b393d615144bf16d0ca1096c6c425ad8",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+        "sha": "0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife/App.xaml"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/App.xaml.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+    "sha": "0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+      "author": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-25T10:25:57Z"
+      },
+      "committer": {
+        "name": "Ian Cheng",
+        "email": "cheng@atv-systems.de",
+        "date": "2019-11-25T10:25:57Z"
+      },
+      "message": "ASYNC Timer Version(Working)\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+        "sha": "0b3e885d1b387a80316ca03f5dc09f02f5ba6b3a",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "committer": {
+      "id": 2,
+      "login": "cheng",
+      "full_name": "Ian Cheng",
+      "email": "cheng@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/cheng/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T07:19:15Z",
+      "restricted": false,
+      "username": "cheng"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5326457383240ac882f4a5f623007a42d3283b86",
+        "sha": "5326457383240ac882f4a5f623007a42d3283b86",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Views/MainWindow.xaml"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5326457383240ac882f4a5f623007a42d3283b86",
+    "sha": "5326457383240ac882f4a5f623007a42d3283b86",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/5326457383240ac882f4a5f623007a42d3283b86",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5326457383240ac882f4a5f623007a42d3283b86",
+      "author": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-11T15:05:36Z"
+      },
+      "committer": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-11T15:05:36Z"
+      },
+      "message": "Updated ignore list;\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/5326457383240ac882f4a5f623007a42d3283b86",
+        "sha": "5326457383240ac882f4a5f623007a42d3283b86",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "committer": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+        "sha": "49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": []
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+    "sha": "49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+      "author": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-11T15:04:59Z"
+      },
+      "committer": {
+        "name": "Markus Kaden",
+        "email": "kaden@atv-systems.de",
+        "date": "2019-11-11T15:04:59Z"
+      },
+      "message": "Initial commit\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+        "sha": "49d08ccb2eae50ffba7ad97ab076c5c0ba96dfac",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "committer": {
+      "id": 6,
+      "login": "kaden",
+      "full_name": "Markus Kaden",
+      "email": "kaden@atv-systems.de",
+      "avatar_url": "https://git.atvoigt.local/user/avatar/kaden/-1",
+      "language": "",
+      "is_admin": false,
+      "last_login": "0001-01-01T00:00:00Z",
+      "created": "2021-04-20T08:27:55Z",
+      "restricted": false,
+      "username": "kaden"
+    },
+    "parents": [
+      {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+        "sha": "5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "files": [
+      {
+        "filename": "GameOfLife/GameOfLife.sln"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/App.config"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/App.xaml"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/App.xaml.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/GameOfLife.csproj"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Properties/AssemblyInfo.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Properties/Resources.Designer.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Properties/Resources.resx"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Properties/Settings.Designer.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Properties/Settings.settings"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/ViewModels/MainWindowViewModel.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Views/MainWindow.xaml"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/Views/MainWindow.xaml.cs"
+      },
+      {
+        "filename": "GameOfLife/GameOfLife/packages.config"
+      }
+    ]
+  },
+  {
+    "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+    "sha": "5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+    "created": "0001-01-01T00:00:00Z",
+    "html_url": "https://git.atvoigt.local/cheng/training_test/commit/5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+    "commit": {
+      "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/commits/5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+      "author": {
+        "name": "USVN",
+        "email": "USVN@mycompany.com",
+        "date": "2019-11-07T13:02:24Z"
+      },
+      "committer": {
+        "name": "USVN",
+        "email": "USVN@mycompany.com",
+        "date": "2019-11-07T13:02:24Z"
+      },
+      "message": "Commit by USVN\n",
+      "tree": {
+        "url": "https://git.atvoigt.local/api/v1/repos/cheng/training_test/git/trees/5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+        "sha": "5a601b70c649f9e382cc5a9eb47d6dbc2632233b",
+        "created": "0001-01-01T00:00:00Z"
+      }
+    },
+    "author": null,
+    "committer": null,
+    "parents": [],
+    "files": []
+  }
+]
